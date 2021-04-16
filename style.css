@@ -1417,7 +1417,7 @@ body {
         color: var(--whitesmoke);
         text-decoration: none;
         font-weight: bold;
-        font-size: 0.8rem;
+        font-size: 1rem;
     }
 
     .nav-link:hover{
@@ -1456,7 +1456,7 @@ body {
     .text-container h3 {
         padding-top: 8.5rem;
         padding-left: 0.8rem;
-        font-size: 1.2rem;
+        font-size: 1.5rem;
         font-weight: bold;  
         color: var(--gray);
     }
@@ -1465,7 +1465,7 @@ body {
         padding-top: 0.3rem;
         padding-left: 0.8rem;
         color: var(--gray);
-        font-size: 0.8rem;
+        font-size: 1rem;
     }
     
 
@@ -1478,7 +1478,7 @@ body {
     #tips-container h3 {
         padding: 1rem 2rem;
         text-align: center;
-        font-size: 1.2rem;
+        font-size: 1.5rem;
         color: var(--gray);
     }
 
@@ -1497,6 +1497,7 @@ body {
         padding: 0.5rem;
         color: var(--gray);
         font-weight: bold;
+        font-size: 1rem;
     }
 
     .form-control input {
@@ -1570,22 +1571,22 @@ body {
     }
 
     #address i {
-        font-size: 1rem;
+        font-size: 1.5rem;
         color: var(--gray);
     }
 
     #phone i {
-        font-size: 1rem;
+        font-size: 1.5rem;
         color: var(--black);
     }
 
     #whatsapp i {
-        font-size: 1.3rem;
+        font-size: 1.8rem;
         color: var(--green-whatsapp);
     }
 
     #email i {
-        font-size: 1.2rem;
+        font-size: 1.8rem;
         height: 1rem;
     }
 
